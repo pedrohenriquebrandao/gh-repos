@@ -42,7 +42,7 @@ Clone o repositório do projeto pelo terminal
 
 
 ```
-git clone https://github.com/pedrohenriquebrandao/gh-api-organizations.git
+git clone https://github.com/pedrohenriquebrandao/gh-repos.git
 ```
 
 Instale as dependências
