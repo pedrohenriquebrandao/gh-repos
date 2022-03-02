@@ -56,7 +56,7 @@ export default function SearchBar() {
       )}
 
       {error && <h1>Não existem organizações com este nome</h1>}
-      {repos.length !== 0 && !error && <Repos itemCount="50" repos={repos} />}
+      {repos.length !== 0 && !error && <Repos repos={repos} />}
     </div>
   );
 }
