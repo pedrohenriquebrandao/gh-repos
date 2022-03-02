@@ -29,7 +29,7 @@ export default function SearchBar() {
   return (
     <div>
       <input
-        className="p-4 sm:w-20 md:w-45 lg:w-96 bg-gray-200 border-l border-b border-t rounded-l mr-0 border-gray-700 hover:border-gray-800 bg-white"
+        className="mr-2 p-4 sm:w-80 md:w-45 lg:w-96 bg-gray-200 border rounded border-gray-700 hover:border-gray-800 bg-white"
         name="search"
         value={searchInput}
         onChange={handleChange}
@@ -40,7 +40,7 @@ export default function SearchBar() {
         <button
           onClick={handleClick}
           type="button"
-          className="sm:px-4 md:px-6 lg:px-16 mb-4 px-12 bg-gray-600 text-gray-200 font-bold p-4 uppercase rounded-r border-gray-700 hover:bg-gray-500 border-gray-700 border-r border-b border-t"
+          className="mt-2 mr-2 sm:px-4 md:px-6 lg:px-12 mb-4 px-12 bg-gray-600 text-gray-200 font-bold p-4 uppercase rounded border-gray-700 hover:bg-gray-500 border-gray-700 border"
         >
           Buscar
         </button>
@@ -49,7 +49,7 @@ export default function SearchBar() {
           onClick={handleClick}
           disabled
           type="button"
-          className="cursor-not-allowed sm:px-4 md:px-6 lg:px-12 mb-4 px-12 bg-gray-600 text-gray-200 font-bold p-4 uppercase rounded-r border-gray-700 hover:bg-gray-500 border-gray-700 border-r border-b border-t"
+          className="cursor-not-allowed mr-2 mt-2 sm:px-4 md:px-6 lg:px-12 mb-4 px-12 bg-gray-600 text-gray-200 font-bold p-4 uppercase rounded border-gray-700 hover:bg-gray-500 border-gray-700 border"
         >
           Buscar
         </button>

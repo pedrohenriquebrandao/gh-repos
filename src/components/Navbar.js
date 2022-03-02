@@ -9,7 +9,7 @@ function Navbar() {
     <div>
       <nav className="bg-gray-800 shadow" role="navigation">
         <div className="container mx-auto p-4 flex flex-wrap items-center md:flex-no-wrap">
-          <div className="mr-4 md:mr-8 centered-label">
+          <div className="mr-2 ml-1 md:mr-4 centered-label">
             <a href="https://github.com">
               <BsGithub
                 className="text-gray-300 hover:text-gray-400 mr-4"
