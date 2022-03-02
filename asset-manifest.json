@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gh-repos/static/css/main.ca53c150.css",
+    "main.js": "/gh-repos/static/js/main.c701e022.js",
+    "index.html": "/gh-repos/index.html",
+    "main.ca53c150.css.map": "/gh-repos/static/css/main.ca53c150.css.map",
+    "main.c701e022.js.map": "/gh-repos/static/js/main.c701e022.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca53c150.css",
+    "static/js/main.c701e022.js"
+  ]
+}
