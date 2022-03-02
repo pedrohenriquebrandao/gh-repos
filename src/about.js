@@ -12,7 +12,7 @@ function About() {
         <div className="ml-8 mr-8 mb-8 flex flex-col md:flex-row md:max-w-xl bg-white shadow-lg border-2 border-gray-500">
           <img
             className="w-full h-96 md:h-auto object-cover md:w-48 md:rounded-none"
-            src={process.env.PUBLIC_URL + 'me.png'} 
+            src={'me.png'} 
             alt=""
           />
           <div className="p-6 flex flex-col justify-start">
