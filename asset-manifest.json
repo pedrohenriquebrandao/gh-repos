@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gh-repos/static/css/main.f4389a82.css",
-    "main.js": "/gh-repos/static/js/main.951d5c9c.js",
+    "main.css": "/gh-repos/static/css/main.e88b0a0c.css",
+    "main.js": "/gh-repos/static/js/main.cb319fc7.js",
     "index.html": "/gh-repos/index.html",
-    "main.f4389a82.css.map": "/gh-repos/static/css/main.f4389a82.css.map",
-    "main.951d5c9c.js.map": "/gh-repos/static/js/main.951d5c9c.js.map"
+    "main.e88b0a0c.css.map": "/gh-repos/static/css/main.e88b0a0c.css.map",
+    "main.cb319fc7.js.map": "/gh-repos/static/js/main.cb319fc7.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4389a82.css",
-    "static/js/main.951d5c9c.js"
+    "static/css/main.e88b0a0c.css",
+    "static/js/main.cb319fc7.js"
   ]
 }
