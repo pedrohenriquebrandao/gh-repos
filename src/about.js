@@ -25,8 +25,11 @@ function About() {
               Universidade Estadual de Feira de Santana (UEFS). Fiz parte do MEJ
               - Movimento Empresa Júnior, tendo sido minha primeira experiência
               profissional ao longo da graduação, onde pude adquirir experiência
-              técnica e vivência empresarial. Sou apaixonado por ciência e
-              tecnologia e gosto de tocar guitarra.
+              técnica e vivência empresarial, além de me aventurar na área de 
+              marketing digital. Eu quero entrar na LETT
+              porque me surpreendi com a qualidade dos produtos e  
+              a cultura da empresa, e acredito que seria o ambiente perfeito
+              para desenvolver minha habilidades e obter experiência na minha carreira.
             </p>
             <div className="container mx-auto px-6 py-4">
               <div className="flex justify-between items-center">
