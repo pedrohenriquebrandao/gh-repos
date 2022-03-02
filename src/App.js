@@ -1,10 +1,12 @@
 import "./App.css";
+import Navbar from "./components/Navbar";
+import SearchBar from "./components/SearchBar";
 
 function App() {
   
   return (
     <div className="App">
-      Navbar
+      <Navbar />
 
       <main className="App">
         <div className="text-gray-900 text-xl mb-12 mt-12 justify-center content-center">
@@ -15,7 +17,7 @@ function App() {
         </div>
 
         <div>
-          SearchBar
+          <SearchBar />
         </div>
       </main>
     </div>
