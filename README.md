@@ -30,7 +30,7 @@ Tecnologias utilizadas no desenvolvimento do projeto:
 
 * [React.js](https://pt-br.reactjs.org)
 
-* [Tailwind CSS](https://nextjs.org)
+* [Tailwind CSS](https://tailwindcss.com)
 
   
 
