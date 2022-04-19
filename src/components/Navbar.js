@@ -21,16 +21,18 @@ function Navbar() {
             </p>
           </div>
 
+
+          {/*<Link
           <div className="w-full md:w-auto md:flex-grow md:flex md:items-center">
             <ul className="flex flex-col block mt-4 -mx-4 pt-4 md:flex-row md:items-center md:mx-0 md:ml-auto md:mt-0 md:pt-0">
               <li>
-              <Link
+                  <Link
                   className="text-gray-300 hover:text-gray-400 font-medium mr-4" 
                   to="/"
                   >
                   BUSCA
                 </Link>
-                <Link
+                
                   className="text-gray-300 hover:text-gray-400 font-medium mr-4" 
                   to="/about"
                   >
@@ -38,7 +40,7 @@ function Navbar() {
                 </Link>
               </li>
             </ul>
-          </div>
+         </div> */}
         </div>
       </nav>
     </div>
